@@ -250,5 +250,5 @@ MIT License - see LICENSE file for details
 ## 👨‍💻 Author
 
 **Zaheer Maseed**  
-Project Manager & Full-Stack Developer  
+Full-Stack Developer  
 October 2025
